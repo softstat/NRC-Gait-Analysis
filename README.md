@@ -15,4 +15,5 @@
 
 
 ### Result
-- Stroke Walking and Balance Characteristics via Principal Component Analysis(Co-Author)
+- Stroke Walking and Balance Characteristics via Principal Component Analysis
+- Standing balance test predicts the Berg Balance Scale score in patients with stroke using principal component analysis
